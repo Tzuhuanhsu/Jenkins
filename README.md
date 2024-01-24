@@ -2,7 +2,7 @@
 
 Jenkins project
 
-## distrubutedFrame
+## distributedFrame
 
 分散式的 Jenkins 範例
 
